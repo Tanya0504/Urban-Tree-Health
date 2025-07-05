@@ -1,0 +1,6 @@
+streamlit
+tensorflow==2.18.0
+pillow
+numpy
+pandas
+matplotlib
